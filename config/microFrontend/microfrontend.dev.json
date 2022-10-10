@@ -1,0 +1,5 @@
+{
+    "publicPath": "http://localhost:1012/login/",
+    "name": "mf-main-login",
+    "port": "1012"
+}
